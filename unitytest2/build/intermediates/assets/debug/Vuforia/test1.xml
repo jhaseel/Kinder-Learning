@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="large" size="960.000000 639.000000" />
+    <ImageTarget name="arbol" size="626.000000 626.000000" />
+    <ImageTarget name="qr-code" size="1184.000000 1184.000000" />
+  </Tracking>
+</QCARConfig>

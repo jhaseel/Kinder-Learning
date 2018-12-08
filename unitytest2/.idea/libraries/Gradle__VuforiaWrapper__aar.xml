@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: VuforiaWrapper:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/c5ceb4e7310f0c4fd1817d943e4996ee/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/c5ceb4e7310f0c4fd1817d943e4996ee/jars/libs/VuforiaUnityPlayer.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/c5ceb4e7310f0c4fd1817d943e4996ee/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/c5ceb4e7310f0c4fd1817d943e4996ee/jars/libs/Vuforia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
