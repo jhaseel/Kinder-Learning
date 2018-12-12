@@ -1,4 +1,4 @@
-#Mon Dec 10 09:34:19 CST 2018
-base.0=C\:\\Users\\Esau\\Desktop\\unitytest2\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Dec 11 10:38:07 CST 2018
+base.0=C\:\\Users\\Esau\\Desktop\\Proyectoemergentes\\Kinder-Learning\\unitytest2\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
