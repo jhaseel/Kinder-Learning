@@ -86,5 +86,4 @@
         <activity android:name=".lista" />
         <activity android:name=".reproductor_de_video"></activity>
     </application>
-
 </manifest>
