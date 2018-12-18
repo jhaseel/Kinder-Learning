@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cuentos"
+        android:icon="@mipmap/ic_videos"
+        android:title="Cuentos"
+        />
+    <item
+        android:id="@+id/descubre"
+        android:title="Descubre"
+        android:icon="@mipmap/ic_camara"
+        />
+</menu>
